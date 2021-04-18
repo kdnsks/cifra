@@ -47,7 +47,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Содержимое</summary>
   <ol>
     <li>
       <a href="#about-the-project">О проекте</a>
@@ -58,7 +58,7 @@
     <li>
       <a href="#getting-started">Иллюстрации</a>
     </li>
-    <li><a href="#contact">Контакты | Contacts</a></li>
+    <li><a href="#contact">Контакты</a></li>
   </ol>
 </details>
 
@@ -94,12 +94,12 @@
     <video src="Запись экрана (18.04.2021 13-22-12) (convert-video-online.com).mp4" alt="Видео" width="800" height="500">
   </a>
 <!-- CONTACT -->
-## Контакты
+### Контакты
 
 Для связи с нами
 <p align="center">
   <a href="https://github.com/kdnsks/cifra">
-    <img src="Контакты.png" alt="Контакты" width="80" height="80">
+    <img src="Контакты.png" alt="Контакты" width="600" height="300">
   </a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
