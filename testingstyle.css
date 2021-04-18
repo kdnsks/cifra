@@ -1,0 +1,131 @@
+html, body{
+	margin: 0;
+	padding: 0;
+	background-color: #f5f5f5;
+}
+#container{
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	margin-top: 70px;
+	width: 960px;
+}
+textarea{
+	width: 300px;
+	height: 300px;
+}
+.newStyle{
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
+button{
+	margin: 20px;
+}
+.left{
+	width: 470px;
+}
+.left h1{
+	width: 115px;
+	height: 19px;
+	color: #000000;
+	font-family: "Arial MT";
+	font-size: 22px;
+	font-weight: 400;
+}
+.right h1{
+	width: 210px;
+	height: 20px;
+	color: #000000;
+	font-family: "Arial MT";
+	font-size: 22px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+.addTaskCon{
+	width: 470px;
+	background-color: white;
+
+}
+.addTaskCon h3{
+	width: 76px;
+	height: 14px;
+	color: #8993ad;
+	font-family: "Arial MT";
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 54px;
+	margin-left: 40px;
+}
+.addTaskCon input{
+	width: 390px;
+	height: 45px;
+	border: 1px solid #ebebeb;
+	background-color: #fcfcfc;
+	margin-top: 10px;
+}
+.addTaskCon textarea{
+	width: 390px;
+	height: 230px;
+	border: 1px solid #ebebeb;
+	background-color: #f9f9f9;
+	opacity: 0.45;
+	margin-top: 10px;
+}
+.addTask{
+	width: 224px;
+	height: 55px;
+	background-color: #2174fd;
+	color: white;
+	border: none;
+	margin-left: 40px;
+	font-size: 16px;
+}
+.center{
+	text-align: center;
+}
+.empty{
+	margin-top: 70px;
+	font-size: 16px;
+	line-height: 54px;
+	color: #8993ad;
+	font-family: "Arial";
+}
+.line{
+	display: flex;
+}
+.task{
+	margin-top: 30px;
+	width: 430px;
+	background-color: #ffffff;
+	height: auto;
+}
+.delete{
+	width: 10px;
+	height: 10px;
+	margin-left: 5px;
+	margin-top: 20px;
+}
+.arrow{
+	width: 7px;
+	height: 7px;
+	margin-left: 205px;
+	margin-top: 20px;
+}
+.task h4{
+	font-size: 16px;
+	line-height: 54px;
+	color: #000000;
+	font-family: "Arial";
+	margin: 0 20px;
+}
+.task p{
+	font-size: 14px;
+	line-height: 54px;
+	color: #8993ad;
+	font-family: "Arial";
+	margin-left: 20px;
+}
+.line{
+	width: 430px;
+}
